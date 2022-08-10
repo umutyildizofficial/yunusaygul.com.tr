@@ -1,0 +1,25 @@
+{
+  "name": "yunusaygul-portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+},
+  "dependencies": {
+    "gray-matter": "^4.0.2",
+    "next": "^12.2.3",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-icons": "^4.1.0",
+    "react-masonry-css": "^1.0.14",
+    "react-reveal": "^1.2.2",
+    "react-visibility-sensor": "^5.1.1",
+    "styled-components": "^5.2.1",
+    "yarn": "^1.22.19"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^1.12.0"
+  }
+}
